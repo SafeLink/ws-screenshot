@@ -1,1 +1,1 @@
-docker run --rm -p 3000:3000 -it elestio/ws-screenshot.slim
+docker run --rm -p 80:80 -it elestio/ws-screenshot.slim
